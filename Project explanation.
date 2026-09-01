@@ -1,0 +1,142 @@
+HRIS: Employee, Leave & Payroll Management System
+📌 Project Overview
+
+This project is an Excel-based Human Resource Information System (HRIS) designed to manage essential HR operations in a structured and organized manner.
+
+The system includes three main components:
+
+👥 Employee Master
+🗓️ Leave Tracker
+💰 Payroll Tracker
+
+It helps maintain employee information, monitor leave utilization, track Loss of Pay (LOP), and manage payroll-related information.
+
+🎯 Project Objectives
+
+The key objectives of this project are:
+
+Maintain a centralized employee database.
+Organize employee information efficiently.
+Track employee leave utilization.
+Monitor Casual and Sick Leave.
+Identify unexcused absences.
+Track Loss of Pay (LOP) days.
+Support payroll-related HR operations.
+Monitor basic employee and workforce metrics.
+👥 Employee Master
+
+The Employee Master sheet acts as the central database of the HRIS.
+
+It contains the following employee details:
+
+Field	Description
+Emp ID	Unique identification number for each employee
+Name	Employee name
+Department	Employee's department
+Designation	Employee's job role
+Date of Joining	Date when the employee joined
+Reporting Manager	Manager assigned to the employee
+Salary Band	Employee salary category
+Status	Active or Terminated
+Performance Rating	Employee performance score
+📊 Key Workforce Metrics
+
+The Employee Master also tracks:
+
+Total Headcount
+Active Employees
+Terminated Employees
+Employee Turnover Rate
+🗓️ Leave Tracker
+
+The Leave Tracker helps monitor employee leave allocation and utilization.
+
+It tracks:
+
+Monthly Casual Leave Allowed
+Monthly Sick Leave Allowed
+Casual Leaves Taken
+Sick Leaves Taken
+Unexcused Absences
+Total Leaves Taken
+Casual Leave Balance
+Sick Leave Balance
+Loss of Pay (LOP) Days
+Net Remaining Leave Balance
+📌 Key Benefits
+
+The Leave Tracker helps HR:
+
+Monitor employee absenteeism.
+Track leave utilization.
+Identify employees with excessive leave.
+Calculate remaining leave balances.
+Identify Loss of Pay days.
+💰 Payroll Tracker
+
+The Payroll Tracker is designed to organize and monitor employee payroll-related information.
+
+It supports HR operations by helping manage:
+
+Employee salary information
+Compensation details
+Payroll-related records
+Salary tracking
+Payroll calculations
+🛠️ Tools Used
+Microsoft Excel
+Excel Tables
+Excel Formulas
+Conditional Formatting
+Data Validation
+✨ Key Features
+
+✅ Centralized Employee Database
+✅ Employee Information Management
+✅ Department and Designation Tracking
+✅ Employee Status Monitoring
+✅ Performance Rating Tracking
+✅ Casual Leave Tracking
+✅ Sick Leave Tracking
+✅ Unexcused Absence Monitoring
+✅ Leave Balance Calculation
+✅ Loss of Pay (LOP) Tracking
+✅ Payroll-Related Tracking
+✅ Workforce Metrics
+
+📊 HR Metrics Included
+
+The project tracks important HR metrics such as:
+
+Total Headcount
+Active Employees
+Terminated Employees
+Turnover Rate
+Leave Utilization
+Casual Leave Balance
+Sick Leave Balance
+Unexcused Absences
+Loss of Pay (LOP) Days
+Performance Ratings
+🚀 Future Improvements
+
+The project can be enhanced further by adding:
+
+📊 Interactive HR Dashboard
+⏰ Employee Attendance Tracker
+💰 Automated Payroll Calculation
+📈 Department-wise Analytics
+📉 Employee Attrition Analysis
+🎓 Training and Development Tracker
+🧑‍💼 Recruitment Tracker
+🎓 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+HR Data Management
+Employee Information Management
+Leave Management
+Payroll Tracking
+Microsoft Excel
+Data Organization
+HR Metrics and Reportin
