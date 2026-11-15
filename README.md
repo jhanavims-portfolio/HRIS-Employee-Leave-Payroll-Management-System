@@ -3,8 +3,13 @@
 <p align="center"><b>An Excel-based HR system that tracks leave and automatically flags Loss of Pay (LOP)</b><br>
 Microsoft Excel · Excel Tables · XLOOKUP · Conditional Formatting</p>
 
-> ### 👀 Want to see the system?
-> **Open the `screenshots` folder in the `main` branch of this repository** to see the Employee Master and the Leave Tracker & Payroll sheets. The full workbook is in the repository files.
+## 📁 What's in this repository
+
+| File | Contents |
+|---|---|
+| `miniature_HRIS_system.xlsx` | The complete HRIS workbook (2 sheets) |
+| `employee_master.png` | Screenshot of the Employee Master sheet |
+| `leavetracker_payroll.png` | Screenshot of the Leave Tracker & Payroll sheet |
 
 ---
 
