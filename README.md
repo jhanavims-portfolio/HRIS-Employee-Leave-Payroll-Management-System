@@ -1,127 +1,132 @@
-📊 HRIS – Employee Leave & Payroll Management System
-📌 Project Overview
+<h1 align="center">📊 HRIS: Employee Leave & Payroll Management System</h1>
 
-This project is an Excel-based Human Resource Information System (HRIS) designed to manage employee information, track employee leave, and support payroll-related calculations.
+<p align="center"><b>An Excel-based HR system that tracks employee leave and flags Loss of Pay (LOP)</b><br>
+Microsoft Excel · IF Logic · Lookup Functions · Data Validation</p>
 
-The system provides a structured approach to maintaining employee records and monitoring leave balances. It also calculates important HR metrics such as Loss of Pay (LOP) and Net Remaining Leave Balance.
+> ### 👀 Want to see the system?
+> **Open the `screenshots` folder in the `main` branch of this repository** to see the Employee Master and the Leave Tracker & Payroll sheets. The full workbook is in the repository files.
 
-🎯 Project Objectives
-Maintain centralized employee information.
-Track employee leave details.
-Calculate remaining leave balances.
-Identify Loss of Pay (LOP).
-Support payroll-related calculations.
-Reduce manual HR record management.
-Improve accuracy in HR data tracking.
-🛠️ Tools Used
-Microsoft Excel
-Excel Formulas
-IF Statements
-Conditional Logic
-Data Validation
-Lookup Functions
-📂 Project Components
-👤 1. Employee Master
+---
 
-The Employee Master sheet maintains essential employee information in a centralized format.
+## 📌 Project overview
 
-It can include details such as:
+An Excel-based Human Resource Information System (HRIS) that manages employee records, tracks leave, and supports payroll-related calculations. It calculates **Loss of Pay (LOP)** and the **Net Remaining Leave Balance** automatically, so HR does less manual record-keeping.
 
-Employee ID
-Employee Name
-Department
-Designation
-Joining Date
-Employment Status
-📅 2. Leave Tracker
+## 🎯 Objectives
 
-The Leave Tracker helps monitor employee leave information.
+- 🗂️ Keep employee information in one central place
+- 📅 Track employee leave details
+- 🧮 Calculate remaining leave balances
+- 💸 Identify Loss of Pay (LOP)
+- 💰 Support payroll-related calculations
+- ⚡ Reduce manual HR record management
+- ✅ Improve accuracy in HR data tracking
 
-Key activities include:
+---
 
-Recording leave requests.
-Tracking leave days.
-Monitoring leave balances.
-Calculating remaining leave.
-Identifying leave-related payroll impact.
-💰 3. Payroll Calculations
+## 🔄 HRIS workflow
 
-The system supports payroll-related calculations based on employee leave information.
+| Step | Stage | What happens |
+|:---:|---|---|
+| 1 | 👤 Employee Master | Employee records are stored centrally |
+| 2 | 📅 Leave Tracking | Leave requests and days are recorded |
+| 3 | 🧮 Leave Balance | Remaining leave is calculated |
+| 4 | 💸 LOP Identification | Unpaid leave is flagged |
+| 5 | 💰 Payroll Impact | Deductions feed into payroll |
 
-Key calculations include:
+---
 
-Loss of Pay (LOP)
-Leave adjustments
-Remaining leave balance
-Net leave balance
-⚙️ Key Features
+## 📂 Project components
 
-✅ Employee Master Data Management
-✅ Employee Leave Tracking
-✅ Leave Balance Calculation
-✅ Net Remaining Leave Balance
-✅ Loss of Pay (LOP) Calculation
-✅ Payroll Support
-✅ Automated Excel Calculations
-✅ Centralized HR Data Management
+### 👤 1. Employee Master
+Keeps essential employee information in one format:
 
-📊 HRIS Workflow
-Employee Master
-       ↓
-Employee Leave Tracking
-       ↓
-Leave Balance Calculation
-       ↓
-LOP Identification
-       ↓
-Payroll Impact
-💡 Business Value
+| Field | Purpose |
+|---|---|
+| Employee ID | Unique identifier |
+| Employee Name | Identity |
+| Department | Team |
+| Designation | Role |
+| Joining Date | Tenure |
+| Employment Status | Active or not |
 
-This HRIS system helps organizations:
+### 📅 2. Leave Tracker
+- Records leave requests
+- Tracks leave days
+- Monitors leave balances
+- Calculates remaining leave
+- Shows the payroll impact of leave
 
-Reduce manual HR data management.
-Maintain organized employee records.
-Track employee leave efficiently.
-Improve accuracy in leave calculations.
-Identify payroll impacts caused by unpaid leave.
-Support HR teams in managing employee information.
-📈 Key HR Metrics
+### 💰 3. Payroll Calculations
+- Loss of Pay (LOP)
+- Leave adjustments
+- Remaining leave balance
+- Net leave balance
 
-The project focuses on important HR metrics such as:
+---
 
-Metric	Description
-Employee Records	Centralized employee information
-Leave Taken	Number of leave days used
-Remaining Leave	Available leave balance
-Net Remaining Leave Balance	Leave available after deductions
-LOP	Loss of Pay due to unpaid leave
-🚀 Future Improvements
+## 📈 Key HR metrics
 
-Future enhancements could include:
+| Metric | Description |
+|---|---|
+| Employee Records | Centralised employee information |
+| Leave Taken | Number of leave days used |
+| Remaining Leave | Available leave balance |
+| Net Remaining Leave Balance | Leave available after deductions |
+| LOP | Loss of Pay due to unpaid leave |
 
-📊 HR Analytics Dashboard
-📈 Power BI Integration
-🤖 Automated Payroll Processing
-📧 Leave Approval Notifications
-👥 Employee Self-Service Portal
-📅 Attendance Tracking
-📄 Automated Payslip Generation
-📊 HR KPI Dashboard
-📁 Repository Files
-Employee Master – Employee information management.
-Leave Tracker & Payroll – Leave and payroll-related calculations.
-Excel Workbook – Complete HRIS system.
-Project Screenshots – Visual representation of the system.
+## ⚙️ Key features
 
-The repository currently includes the Excel workbook and screenshots for the Employee Master and Leave Tracker/Payroll sections.
+✅ Employee master data management  ·  ✅ Leave tracking  ·  ✅ Leave balance calculation  ·  ✅ Net remaining leave balance  ·  ✅ LOP calculation  ·  ✅ Payroll support  ·  ✅ Automated Excel calculations  ·  ✅ Centralised HR data
 
-👤 Author
-M.S JHANAVI
-MBA – HR 
-KL University
+## 🛠️ Tools used
 
-⭐ Conclusion
+| Tool | Used for |
+|---|---|
+| Microsoft Excel | Building the system |
+| Excel formulas and IF statements | Leave and LOP logic |
+| Conditional logic | Flagging unpaid leave |
+| Data validation | Keeping entries accurate |
+| Lookup functions | Pulling employee data across sheets |
 
-This project demonstrates the practical application of Microsoft Excel in Human Resource Management. It combines employee data management, leave tracking, leave balance calculations, and payroll-related analysis in a single HRIS system.
+---
 
-It is designed as a mini HR management solution to demonstrate HR operations and Excel-based data management skills.
+## 💡 Business value
+
+- Less manual HR data management
+- Organised employee records
+- Efficient leave tracking
+- More accurate leave calculations
+- Clear view of payroll impact from unpaid leave
+- Support for HR teams managing employee information
+
+## 🚀 Future improvements
+
+📊 HR analytics dashboard · 📈 Power BI integration · 🤖 Automated payroll processing · 📧 Leave approval notifications · 👥 Employee self-service portal · 📅 Attendance tracking · 📄 Automated payslip generation · 📊 HR KPI dashboard
+
+---
+
+## 📁 What's in this repository
+
+| Item | Contents |
+|---|---|
+| Excel workbook | The complete HRIS system |
+| `screenshots/` | Employee Master and Leave Tracker & Payroll views |
+
+---
+
+## 📸 Screenshots
+
+### Screenshot 1: Employee Master
+
+
+### Screenshot 2: Leave Tracker and Payroll
+
+
+---
+
+## 👤 Author
+**M.S. Jhanavi** · MBA (HR), KL University
+
+## ⭐ Conclusion
+This project shows how Microsoft Excel can support HR management. It combines employee data, leave tracking, leave balance calculations and payroll-related analysis in one mini HRIS, built to demonstrate HR operations and Excel data-management skills.
